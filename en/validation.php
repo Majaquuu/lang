@@ -3,7 +3,7 @@
 return [
     /*
     |--------------------------------------------------------------------------
-    | Validation Language Lines
+    | Wiersze języka walidacji
     |--------------------------------------------------------------------------
     |
     | The following language lines contain the default error messages used by
