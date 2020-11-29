@@ -6,7 +6,7 @@ return [
     'failed' => 'No account matching those credentials could be found.',
 
     'forgot_password' => [
-        'label' => 'Forgot Password?',
+        'label' => 'Zapomniałeś hasła?',
         'label_help' => 'Enter your account email address to receive instructions on resetting your password.',
         'button' => 'Recover Account',
     ],
